@@ -1,0 +1,14 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+
+# Quantum algorithms
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+pylatexenc
+
+# Post-quantum cryptography
+# Recommended: run the ML-KEM notebook in Google Colab first.
+liboqs-python
